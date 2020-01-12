@@ -1,0 +1,11 @@
+C:\Users\ari.kim\Desktop\study\csharp\Lamda\UsingExpressionTree\bin\Debug\netcoreapp3.1\UsingExpressionTree.exe
+C:\Users\ari.kim\Desktop\study\csharp\Lamda\UsingExpressionTree\bin\Debug\netcoreapp3.1\UsingExpressionTree.deps.json
+C:\Users\ari.kim\Desktop\study\csharp\Lamda\UsingExpressionTree\bin\Debug\netcoreapp3.1\UsingExpressionTree.runtimeconfig.json
+C:\Users\ari.kim\Desktop\study\csharp\Lamda\UsingExpressionTree\bin\Debug\netcoreapp3.1\UsingExpressionTree.runtimeconfig.dev.json
+C:\Users\ari.kim\Desktop\study\csharp\Lamda\UsingExpressionTree\bin\Debug\netcoreapp3.1\UsingExpressionTree.dll
+C:\Users\ari.kim\Desktop\study\csharp\Lamda\UsingExpressionTree\bin\Debug\netcoreapp3.1\UsingExpressionTree.pdb
+C:\Users\ari.kim\Desktop\study\csharp\Lamda\UsingExpressionTree\obj\Debug\netcoreapp3.1\UsingExpressionTree.csprojAssemblyReference.cache
+C:\Users\ari.kim\Desktop\study\csharp\Lamda\UsingExpressionTree\obj\Debug\netcoreapp3.1\UsingExpressionTree.AssemblyInfoInputs.cache
+C:\Users\ari.kim\Desktop\study\csharp\Lamda\UsingExpressionTree\obj\Debug\netcoreapp3.1\UsingExpressionTree.AssemblyInfo.cs
+C:\Users\ari.kim\Desktop\study\csharp\Lamda\UsingExpressionTree\obj\Debug\netcoreapp3.1\UsingExpressionTree.dll
+C:\Users\ari.kim\Desktop\study\csharp\Lamda\UsingExpressionTree\obj\Debug\netcoreapp3.1\UsingExpressionTree.pdb

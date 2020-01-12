@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FuncTest_lamda/1.0.0": {
+        "runtime": {
+          "FuncTest_lamda.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FuncTest_lamda/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

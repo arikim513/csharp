@@ -1,0 +1,11 @@
+C:\Users\ari.kim\Desktop\study\csharp\Lamda\AcionTest_lamda\bin\Debug\netcoreapp3.1\AcionTest_lamda.exe
+C:\Users\ari.kim\Desktop\study\csharp\Lamda\AcionTest_lamda\bin\Debug\netcoreapp3.1\AcionTest_lamda.deps.json
+C:\Users\ari.kim\Desktop\study\csharp\Lamda\AcionTest_lamda\bin\Debug\netcoreapp3.1\AcionTest_lamda.runtimeconfig.json
+C:\Users\ari.kim\Desktop\study\csharp\Lamda\AcionTest_lamda\bin\Debug\netcoreapp3.1\AcionTest_lamda.runtimeconfig.dev.json
+C:\Users\ari.kim\Desktop\study\csharp\Lamda\AcionTest_lamda\bin\Debug\netcoreapp3.1\AcionTest_lamda.dll
+C:\Users\ari.kim\Desktop\study\csharp\Lamda\AcionTest_lamda\bin\Debug\netcoreapp3.1\AcionTest_lamda.pdb
+C:\Users\ari.kim\Desktop\study\csharp\Lamda\AcionTest_lamda\obj\Debug\netcoreapp3.1\AcionTest_lamda.csprojAssemblyReference.cache
+C:\Users\ari.kim\Desktop\study\csharp\Lamda\AcionTest_lamda\obj\Debug\netcoreapp3.1\AcionTest_lamda.AssemblyInfoInputs.cache
+C:\Users\ari.kim\Desktop\study\csharp\Lamda\AcionTest_lamda\obj\Debug\netcoreapp3.1\AcionTest_lamda.AssemblyInfo.cs
+C:\Users\ari.kim\Desktop\study\csharp\Lamda\AcionTest_lamda\obj\Debug\netcoreapp3.1\AcionTest_lamda.dll
+C:\Users\ari.kim\Desktop\study\csharp\Lamda\AcionTest_lamda\obj\Debug\netcoreapp3.1\AcionTest_lamda.pdb

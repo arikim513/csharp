@@ -1,0 +1,11 @@
+C:\Users\ari.kim\Desktop\study\csharp\Lamda\Lamda\bin\Debug\netcoreapp3.1\Lamda.exe
+C:\Users\ari.kim\Desktop\study\csharp\Lamda\Lamda\bin\Debug\netcoreapp3.1\Lamda.deps.json
+C:\Users\ari.kim\Desktop\study\csharp\Lamda\Lamda\bin\Debug\netcoreapp3.1\Lamda.runtimeconfig.json
+C:\Users\ari.kim\Desktop\study\csharp\Lamda\Lamda\bin\Debug\netcoreapp3.1\Lamda.runtimeconfig.dev.json
+C:\Users\ari.kim\Desktop\study\csharp\Lamda\Lamda\bin\Debug\netcoreapp3.1\Lamda.dll
+C:\Users\ari.kim\Desktop\study\csharp\Lamda\Lamda\bin\Debug\netcoreapp3.1\Lamda.pdb
+C:\Users\ari.kim\Desktop\study\csharp\Lamda\Lamda\obj\Debug\netcoreapp3.1\Lamda.csprojAssemblyReference.cache
+C:\Users\ari.kim\Desktop\study\csharp\Lamda\Lamda\obj\Debug\netcoreapp3.1\Lamda.AssemblyInfoInputs.cache
+C:\Users\ari.kim\Desktop\study\csharp\Lamda\Lamda\obj\Debug\netcoreapp3.1\Lamda.AssemblyInfo.cs
+C:\Users\ari.kim\Desktop\study\csharp\Lamda\Lamda\obj\Debug\netcoreapp3.1\Lamda.dll
+C:\Users\ari.kim\Desktop\study\csharp\Lamda\Lamda\obj\Debug\netcoreapp3.1\Lamda.pdb

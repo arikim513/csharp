@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Lamda": {
+      "commandName": "Project",
+      "commandLineArgs": "hello world"
+    }
+  }
+}
